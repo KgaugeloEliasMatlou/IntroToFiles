@@ -13,7 +13,7 @@ class Program
 
         // Store the path of the textfile in your system
 
-        string file = @"C: \Users\Train 08\Desktop\C#.txt";
+        string file = @"C:\Users\Train 08\Desktop\C#.txt";
 
 
 
